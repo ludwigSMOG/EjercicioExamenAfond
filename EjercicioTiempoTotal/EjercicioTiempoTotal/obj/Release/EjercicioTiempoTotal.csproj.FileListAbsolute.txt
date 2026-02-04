@@ -1,0 +1,9 @@
+C:\Users\ludwi\source\repos\Tema5\EjercicioTiempoTotal\EjercicioTiempoTotal\bin\Release\EjercicioTiempoTotal.exe.config
+C:\Users\ludwi\source\repos\Tema5\EjercicioTiempoTotal\EjercicioTiempoTotal\bin\Release\EjercicioTiempoTotal.exe
+C:\Users\ludwi\source\repos\Tema5\EjercicioTiempoTotal\EjercicioTiempoTotal\bin\Release\EjercicioTiempoTotal.pdb
+C:\Users\ludwi\source\repos\Tema5\EjercicioTiempoTotal\EjercicioTiempoTotal\obj\Release\EjercicioTiempoTotal.csproj.AssemblyReference.cache
+C:\Users\ludwi\source\repos\Tema5\EjercicioTiempoTotal\EjercicioTiempoTotal\obj\Release\EjercicioTiempoTotal.EjercicioTiempoTotal.resources
+C:\Users\ludwi\source\repos\Tema5\EjercicioTiempoTotal\EjercicioTiempoTotal\obj\Release\EjercicioTiempoTotal.csproj.GenerateResource.cache
+C:\Users\ludwi\source\repos\Tema5\EjercicioTiempoTotal\EjercicioTiempoTotal\obj\Release\EjercicioTiempoTotal.csproj.CoreCompileInputs.cache
+C:\Users\ludwi\source\repos\Tema5\EjercicioTiempoTotal\EjercicioTiempoTotal\obj\Release\EjercicioTiempoTotal.exe
+C:\Users\ludwi\source\repos\Tema5\EjercicioTiempoTotal\EjercicioTiempoTotal\obj\Release\EjercicioTiempoTotal.pdb

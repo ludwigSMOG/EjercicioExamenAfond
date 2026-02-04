@@ -1,0 +1,11 @@
+C:\Users\ludwi\source\repos\Tema5\MiPrimerServicio\MiPrimerServicio\bin\Release\MiPrimerServicio.exe.config
+C:\Users\ludwi\source\repos\Tema5\MiPrimerServicio\MiPrimerServicio\bin\Release\MiPrimerServicio.exe
+C:\Users\ludwi\source\repos\Tema5\MiPrimerServicio\MiPrimerServicio\bin\Release\MiPrimerServicio.pdb
+C:\Users\ludwi\source\repos\Tema5\MiPrimerServicio\MiPrimerServicio\obj\Release\MiPrimerServicio.csproj.AssemblyReference.cache
+C:\Users\ludwi\source\repos\Tema5\MiPrimerServicio\MiPrimerServicio\obj\Release\MiPrimerServicio.ProjectInstaller.resources
+C:\Users\ludwi\source\repos\Tema5\MiPrimerServicio\MiPrimerServicio\obj\Release\MiPrimerServicio.MiPrimerServicio.resources
+C:\Users\ludwi\source\repos\Tema5\MiPrimerServicio\MiPrimerServicio\obj\Release\MiPrimerServicio.csproj.GenerateResource.cache
+C:\Users\ludwi\source\repos\Tema5\MiPrimerServicio\MiPrimerServicio\obj\Release\MiPrimerServicio.csproj.CoreCompileInputs.cache
+C:\Users\ludwi\source\repos\Tema5\MiPrimerServicio\MiPrimerServicio\obj\Release\MiPrimerServicio.exe
+C:\Users\ludwi\source\repos\Tema5\MiPrimerServicio\MiPrimerServicio\obj\Release\MiPrimerServicio.pdb
+C:\Users\ludwi\source\repos\Tema5\MiPrimerServicio\MiPrimerServicio\obj\Release\MiPrimerServicio.exe.config
