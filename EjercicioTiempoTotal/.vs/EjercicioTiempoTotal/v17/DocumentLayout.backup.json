@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ludwi\\source\\repos\\Tema5\\EjercicioTiempoTotal\\",
+  "WorkspaceRootPath": "C:\\Users\\ludwi\\Desktop\\EjercicioExamenAfond\\EjercicioTiempoTotal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DEA7B529-247D-4650-8A51-772991E7DC6C}|EjercicioTiempoTotal\\EjercicioTiempoTotal.csproj|C:\\Users\\ludwi\\source\\repos\\Tema5\\EjercicioTiempoTotal\\ejerciciotiempototal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEA7B529-247D-4650-8A51-772991E7DC6C}|EjercicioTiempoTotal\\EjercicioTiempoTotal.csproj|solutionrelative:ejerciciotiempototal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEA7B529-247D-4650-8A51-772991E7DC6C}|EjercicioTiempoTotal\\EjercicioTiempoTotal.csproj|c:\\users\\ludwi\\desktop\\ejercicioexamenafond\\ejerciciotiempototal\\ejerciciotiempototal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA7B529-247D-4650-8A51-772991E7DC6C}|EjercicioTiempoTotal\\EjercicioTiempoTotal.csproj|solutionrelative:ejerciciotiempototal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEA7B529-247D-4650-8A51-772991E7DC6C}|EjercicioTiempoTotal\\EjercicioTiempoTotal.csproj|c:\\users\\ludwi\\source\\repos\\tema5\\ejerciciotiempototal\\ejerciciotiempototal\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEA7B529-247D-4650-8A51-772991E7DC6C}|EjercicioTiempoTotal\\EjercicioTiempoTotal.csproj|solutionrelative:ejerciciotiempototal\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEA7B529-247D-4650-8A51-772991E7DC6C}|EjercicioTiempoTotal\\EjercicioTiempoTotal.csproj|C:\\Users\\ludwi\\Desktop\\EjercicioExamenAfond\\EjercicioTiempoTotal\\ejerciciotiempototal\\servfechahora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA7B529-247D-4650-8A51-772991E7DC6C}|EjercicioTiempoTotal\\EjercicioTiempoTotal.csproj|solutionrelative:ejerciciotiempototal\\servfechahora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEA7B529-247D-4650-8A51-772991E7DC6C}|EjercicioTiempoTotal\\EjercicioTiempoTotal.csproj|C:\\Users\\ludwi\\source\\repos\\Tema5\\EjercicioTiempoTotal\\ejerciciotiempototal\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DEA7B529-247D-4650-8A51-772991E7DC6C}|EjercicioTiempoTotal\\EjercicioTiempoTotal.csproj|solutionrelative:ejerciciotiempototal\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{DEA7B529-247D-4650-8A51-772991E7DC6C}|EjercicioTiempoTotal\\EjercicioTiempoTotal.csproj|C:\\Users\\ludwi\\Desktop\\EjercicioExamenAfond\\EjercicioTiempoTotal\\ejerciciotiempototal\\configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA7B529-247D-4650-8A51-772991E7DC6C}|EjercicioTiempoTotal\\EjercicioTiempoTotal.csproj|solutionrelative:ejerciciotiempototal\\configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,39 +27,41 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ludwi\\source\\repos\\Tema5\\EjercicioTiempoTotal\\EjercicioTiempoTotal\\Program.cs",
-              "RelativeDocumentMoniker": "EjercicioTiempoTotal\\Program.cs",
-              "ToolTip": "C:\\Users\\ludwi\\source\\repos\\Tema5\\EjercicioTiempoTotal\\EjercicioTiempoTotal\\Program.cs",
-              "RelativeToolTip": "EjercicioTiempoTotal\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ludwi\\Desktop\\EjercicioExamenAfond\\EjercicioTiempoTotal\\EjercicioTiempoTotal\\Form1.cs",
+              "RelativeDocumentMoniker": "EjercicioTiempoTotal\\Form1.cs",
+              "ToolTip": "C:\\Users\\ludwi\\Desktop\\EjercicioExamenAfond\\EjercicioTiempoTotal\\EjercicioTiempoTotal\\Form1.cs",
+              "RelativeToolTip": "EjercicioTiempoTotal\\Form1.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAuwG4AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T12:27:35.316Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Service1.cs",
-              "DocumentMoniker": "C:\\Users\\ludwi\\source\\repos\\Tema5\\EjercicioTiempoTotal\\EjercicioTiempoTotal\\Service1.cs",
-              "RelativeDocumentMoniker": "EjercicioTiempoTotal\\Service1.cs",
-              "ToolTip": "C:\\Users\\ludwi\\source\\repos\\Tema5\\EjercicioTiempoTotal\\EjercicioTiempoTotal\\Service1.cs",
-              "RelativeToolTip": "EjercicioTiempoTotal\\Service1.cs",
-              "ViewState": "AgIAALgAAAAAAAAAAAAwwMgAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T12:20:03.335Z",
+              "WhenOpened": "2026-02-05T12:00:29.037Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Service1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\ludwi\\source\\repos\\Tema5\\EjercicioTiempoTotal\\EjercicioTiempoTotal\\Service1.cs",
-              "RelativeDocumentMoniker": "EjercicioTiempoTotal\\Service1.cs",
-              "ToolTip": "C:\\Users\\ludwi\\source\\repos\\Tema5\\EjercicioTiempoTotal\\EjercicioTiempoTotal\\Service1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "EjercicioTiempoTotal\\Service1.cs [Dise\u00F1o]",
+              "Title": "Configuracion.cs",
+              "DocumentMoniker": "C:\\Users\\ludwi\\Desktop\\EjercicioExamenAfond\\EjercicioTiempoTotal\\EjercicioTiempoTotal\\Configuracion.cs",
+              "RelativeDocumentMoniker": "EjercicioTiempoTotal\\Configuracion.cs",
+              "ToolTip": "C:\\Users\\ludwi\\Desktop\\EjercicioExamenAfond\\EjercicioTiempoTotal\\EjercicioTiempoTotal\\Configuracion.cs",
+              "RelativeToolTip": "EjercicioTiempoTotal\\Configuracion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T12:16:07.376Z"
+              "WhenOpened": "2026-02-04T12:12:10.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServFechaHora.cs",
+              "DocumentMoniker": "C:\\Users\\ludwi\\Desktop\\EjercicioExamenAfond\\EjercicioTiempoTotal\\EjercicioTiempoTotal\\ServFechaHora.cs",
+              "RelativeDocumentMoniker": "EjercicioTiempoTotal\\ServFechaHora.cs",
+              "ToolTip": "C:\\Users\\ludwi\\Desktop\\EjercicioExamenAfond\\EjercicioTiempoTotal\\EjercicioTiempoTotal\\ServFechaHora.cs",
+              "RelativeToolTip": "EjercicioTiempoTotal\\ServFechaHora.cs",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAIwPEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T12:07:30.96Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,6 +1,6 @@
 ﻿namespace EjercicioTiempoTotal
 {
-    partial class EjercicioTiempoTotal
+    partial class Serv2
     {
         /// <summary> 
         /// Variable del diseñador necesaria.
@@ -29,10 +29,10 @@
         private void InitializeComponent()
         {
             // 
-            // EjercicioTiempoTotal
+            // Serv2
             // 
             this.AutoLog = false;
-            this.ServiceName = "EjercicioTiempoTotal";
+            this.ServiceName = "ServicioFechaHora";
 
         }
 
